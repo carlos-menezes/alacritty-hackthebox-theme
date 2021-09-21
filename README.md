@@ -1,6 +1,6 @@
 # alacritty-hackthebox-theme
 
-![htb-theme](https://i.imgur.com/SXoHGQ2.png)
+![htb-theme](https://i.imgur.com/SXoHGQ2l.png)
 
 ## Install
 1. Download the `htb.yml` file;
